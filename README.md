@@ -12,7 +12,7 @@ In the Software Development Lifecycle (SDLC), Requirement Analysis is a critical
 
 Requirement Analysis is a crucial step in software development because it lays the foundation for everything that follows. Here are some key reasons why it's important:
 
-- **Clarity and Focus:** It ensures that everyone involved — from developers to stakeholders — understands what the software should do, reducing confusion and miscommunication.
+- **Clarity and Focus:** It ensures that everyone involved, from developers to stakeholders, understands what the software should do, reducing confusion and miscommunication.
 
 - **Cost and Time Efficiency:** By identifying and resolving misunderstandings early in the process, requirement analysis helps avoid costly changes and rework later in the project lifecycle.
 
@@ -33,6 +33,30 @@ Requirement Analysis involves several important activities that help in understa
 - **Requirement Analysis and Modeling:** Studying the collected information to identify conflicts, gaps, and dependencies, and representing them using models or diagrams.
 
 - **Requirement Validation:** Ensuring that the documented requirements are correct, complete, and agreed upon by all stakeholders before development begins.
+
+## 🧾 Types of Requirements
+
+In software development, requirements are generally divided into two main types: **Functional** and **Non-functional**. Both are essential for delivering a complete and successful system.
+
+### Functional Requirements
+
+Functional requirements describe **what the system should do**. They focus on specific behaviors, functions, or features that the software must perform.
+
+**Examples for the Booking Management System:**
+- The system shall allow users to create, view, and cancel bookings.
+- Users shall be able to log in and manage their booking history.
+- The admin shall be able to approve or reject user bookings.
+- The system shall send confirmation emails after successful bookings.
+
+### Non-functional Requirements
+
+Non-functional requirements describe **how the system should perform**. They focus on quality attributes such as performance, usability, security, and reliability.
+
+**Examples for the Booking Management System:**
+- The system shall load booking pages within 2 seconds.
+- The platform must be available 99.9% of the time (high availability).
+- All user data shall be encrypted during transmission and storage.
+- The system interface shall be responsive across desktops and mobile devices.
 
 
 
